@@ -3,6 +3,10 @@
 A React-based movie search and watchlist application that uses the OMDb API to fetch movie data.
 Users can search for movies, view details, rate them, and maintain a personal watched list.
 
+## Live Demo
+
+You can see the deployed app here: [UsePopcorn](https://use-popcorn-webapp.netlify.app/)
+
 # Features
 
 - Search Movies – Search any movie by title (powered by OMDb API).
